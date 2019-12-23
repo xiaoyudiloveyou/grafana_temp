@@ -1,0 +1,1 @@
+{"version":3,"file":"types.js","sourceRoot":"","sources":["../../../../../app/plugins/panel/graph2/types.ts"],"names":[],"mappings":"AAwBA,MAAM,CAAC,IAAM,QAAQ,GAAY;IAC/B,KAAK,EAAE;QACL,QAAQ,EAAE,KAAK;QACf,SAAS,EAAE,IAAI;QACf,UAAU,EAAE,KAAK;KAClB;IACD,MAAM,EAAE;QACN,OAAO,EAAE,KAAK;QACd,SAAS,EAAE,IAAI;QACf,SAAS,EAAE,OAAO;KACnB;IACD,MAAM,EAAE,EAAE;CACX,CAAC"}
